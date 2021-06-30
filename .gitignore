@@ -1,2 +1,2 @@
-.dist
-.django_adminlite_app.egg-info
+dist/
+django_adminlite_app.egg-info/
